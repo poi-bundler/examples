@@ -1,4 +1,4 @@
 # Poi Examples
 
 - [Testing with Puppet](./examples/testing-with-puppet)
-- Add more here..
+- [Request an example..](https://github.com/poi-bundler/examples/issues/new)
