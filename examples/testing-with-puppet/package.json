@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "poi --serve",
+    "build": "poi --prod",
+    "test": "poi puppet --test --plugin @poi/puppet --framework mocha"
+  },
+  "devDependencies": {
+    "@poi/plugin-puppet": "^0.1.3",
+    "babel-preset-power-assert": "^3.0.0",
+    "poi": "^12.1.6",
+    "power-assert": "^1.6.1"
+  }
+}

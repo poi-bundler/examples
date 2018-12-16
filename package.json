@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "poi-examples",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^1.2.1",
+    "lint-staged": "^8.1.0",
+    "prettier": "^1.15.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "linters": {
+      "*.{js,md,json,md}": [
+        "prettier --write",
+        "git add"
+      ]
+    }
+  }
+}
