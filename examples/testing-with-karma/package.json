@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "poi --serve",
+    "build": "poi --prod",
+    "test": "poi karma --test --plugin @poi/karma"
+  },
+  "devDependencies": {
+    "@poi/plugin-karma": "^12.0.3",
+    "poi": "^12.2.5"
+  }
+}

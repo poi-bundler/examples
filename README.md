@@ -10,4 +10,5 @@
 
 ## Testing
 
+- [Testing with Karma](./examples/testing-with-karma)
 - [Testing with Puppet](./examples/testing-with-puppet)
