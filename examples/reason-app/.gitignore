@@ -5,5 +5,4 @@ node_modules
 
 # Output by bucklescript
 .merlin
-*.bs.js
 /lib
