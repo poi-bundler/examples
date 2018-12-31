@@ -1,0 +1,8 @@
+node_modules
+
+# Poi dist
+/dist
+
+# Output by bucklescript
+.merlin
+/lib

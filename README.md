@@ -8,6 +8,7 @@
 - [Babel TypeScript React App](./examples/babel-typescript-react-app)
 - [TypeScript React App](./examples/typescript-react-app)
 - [Reason App](./examples/reason-app)
+- [Reason React App](./examples/reason-react-app)
 
 ## Testing
 
