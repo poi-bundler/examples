@@ -1,1 +1,1 @@
-print_endline("Hello World!");
+print_endline("Hello World! " ++ string_of_int(Sum.sum(100, 1)));
