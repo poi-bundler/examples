@@ -2,7 +2,7 @@
   "private": true,
   "source": "src/index.re",
   "scripts": {
-    "dev": "run-p -l watch-world serve-app",
+    "dev": "run-p watch-world serve-app",
     "build": "run-s make-world build-app",
     "make-world": "bsb -make-world",
     "watch-world": "bsb -make-world -w",
