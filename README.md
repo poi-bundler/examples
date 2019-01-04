@@ -4,6 +4,8 @@
 
 ## Libraries and frameworks
 
+- [Babel TypeScript App](./examples/babel-typescript-app)
+- [TypeScript App](./examples/typescript-app)
 - [React App](./examples/react-app)
 - [Babel TypeScript React App](./examples/babel-typescript-react-app)
 - [TypeScript React App](./examples/typescript-react-app)

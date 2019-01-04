@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "poi": "^12.2.14"
+  }
+}

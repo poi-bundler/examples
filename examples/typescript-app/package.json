@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "@poi/plugin-typescript": "^12.0.0",
+    "poi": "^12.2.14",
+    "typescript": "^3.2.2"
+  }
+}
