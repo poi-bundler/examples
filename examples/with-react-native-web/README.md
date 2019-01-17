@@ -1,6 +1,6 @@
 # React Native for Web example
 
-This example shows how to use [react-native-web](https://github.com/necolas/react-native-web) which allows you to develop React components for native and web without rewriting existing code.
+This example shows how to use [react-native-web](https://github.com/necolas/react-native-web) which allows you to develop React components for native and web without rewriting existing code. It is used by [Twitter](https://mobile.twitter.com), [Uber](https://www.youtube.com/watch?v=RV9rxrNIxnY) etc.
 
 ## Details
 
