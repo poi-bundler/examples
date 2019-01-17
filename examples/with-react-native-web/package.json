@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "poi --serve",
+    "build": "poi --prod"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.9.13",
+    "poi": "^12.4.4",
+    "react-hot-loader": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-native-web": "^0.10.0-alpha.2"
+  }
+}
