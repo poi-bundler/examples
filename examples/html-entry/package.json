@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "poi index.html --serve",
+    "build": "poi index.html --prod"
+  },
+  "devDependencies": {
+    "poi": "^12.5.0"
+  }
+}

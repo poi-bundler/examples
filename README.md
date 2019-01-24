@@ -2,6 +2,10 @@
 
 [Request an example here..](https://github.com/poi-bundler/examples/issues/new)
 
+## General
+
+- [Use HTML File as Entry Point](./examples/html-entry)
+
 ## Libraries and frameworks
 
 - [Babel TypeScript App](./examples/babel-typescript-app)
