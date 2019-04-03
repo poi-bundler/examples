@@ -16,6 +16,7 @@
 - [Reason App](./examples/reason-app)
 - [Reason React App](./examples/reason-react-app)
 - [React Native Web](./examples/with-react-native-web)
+- [Astroturf (CSS in JS)](./examples/with-astroturf)
 
 ## Testing
 
