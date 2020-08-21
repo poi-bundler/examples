@@ -1,3 +1,4 @@
 module.exports = {
-  entry: 'src/index'
+  entry: 'src/index',
+  reactRefresh: true,
 }

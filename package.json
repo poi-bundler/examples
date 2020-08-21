@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "license": "MIT",
   "devDependencies": {
-    "husky": "^1.2.1",
-    "lint-staged": "^8.1.0",
-    "prettier": "^1.15.3"
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5"
   },
   "husky": {
     "hooks": {
@@ -14,11 +14,9 @@
     }
   },
   "lint-staged": {
-    "linters": {
-      "*.{js,md,json,md}": [
-        "prettier --write",
-        "git add"
-      ]
-    }
+    "*.{js,md,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
   }
 }
