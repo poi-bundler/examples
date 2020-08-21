@@ -1,7 +1,6 @@
 import * as React from 'react'
 import logo from './logo.svg'
 import './App.css'
-import { hot } from 'react-hot-loader'
 
 class App extends React.Component {
   render() {
@@ -18,7 +17,7 @@ class App extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React TypeScript
           </a>
         </header>
       </div>
@@ -26,4 +25,4 @@ class App extends React.Component {
   }
 }
 
-export default hot(module)(App)
+export default App

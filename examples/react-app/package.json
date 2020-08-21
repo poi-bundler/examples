@@ -5,11 +5,10 @@
     "build": "poi --prod"
   },
   "devDependencies": {
-    "poi": "^12.2.2",
-    "react-hot-loader": "^4.6.3"
+    "poi": "^12.10.2"
   },
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
